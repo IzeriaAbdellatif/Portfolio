@@ -1,30 +1,46 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiVisualstudiocode,
-  SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
+  SiFedora,
+  SiJupyter,
+  SiGooglecolab,
+  SiGithub,
+  SiGit,
+  SiLooker,
+  SiOpenai,
 } from "react-icons/si";
+import { FaDatabase } from "react-icons/fa";
+import { VscVscodeInsiders } from "react-icons/vsc";
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+        <SiFedora />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+        <VscVscodeInsiders />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+        <SiJupyter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
+        <SiGooglecolab />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiLooker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaDatabase />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiOpenai />
       </Col>
     </Row>
   );
