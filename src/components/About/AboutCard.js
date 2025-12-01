@@ -12,7 +12,7 @@ function AboutCard() {
             <span className="purple" style={{ fontWeight: "bold" }}>Abdellatif</span>, Moroccan <span style={{ fontWeight: "bold" }}>data science student</span>.<br />
             I love <span style={{ fontWeight: "bold" }}>authenticity</span> (<span style={{ color: "#984620ff" }}>religion, family, local food</span>) and <span style={{ fontWeight: "bold" }}>modernity</span> (<span style={{ color: "#C75D2C" }}>digitalisation, cars, advanced technological solutions</span>).
             <br /><br />
-            I'm currently an <span style={{ fontWeight: "bold" }}>engineering student</span>, seeking new opportunities like <span style={{ fontWeight: "bold" }}>internships</span> and <span style={{ fontWeight: "bold" }}>freelance projects</span>.
+            I'm currently a last year <span style={{ fontWeight: "bold" }}>engineering student</span>, seeking for end of study <span style={{ fontWeight: "bold" }}>internship</span> and <span style={{ fontWeight: "bold" }}>freelance projects</span>.
             <br /><br />
             <span style={{ fontWeight: "bold" }}>Professional skills:</span>
             <ul>
