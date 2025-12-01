@@ -8,9 +8,10 @@ function Type() {
         strings: [
           "Muslim",
           "Moroccan",
-          "full-stack data",
-          "data science engineering student",
-          "belongs to IT community",
+          "engineering student at INSEA",
+          "data scientist",
+          "statistician",
+          "IT enthusiast",
         ],
         autoStart: true,
         loop: true,
