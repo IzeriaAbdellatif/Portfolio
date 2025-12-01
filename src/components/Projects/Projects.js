@@ -40,6 +40,7 @@ Orchestrated the entire ETL process using Apache Airflow for automation and reli
               title="teleco churn prediction"
               description="develop a classification model capable of predicting whether a customer is likely to cancel their subscription, based on their past behavior and characteristics."
               ghLink="https://github.com/IzeriaAbdellatif/Telecom-Churn-prediction-using-machine-Learning"
+              demoLink="https://drive.google.com/file/d/1qUgWgNV--pCF3iwoNt8Md3ba8wHqktrH/view?usp=sharing"
               />
           </Col>
           <Col md={4} className="project-card">
@@ -48,7 +49,7 @@ Orchestrated the entire ETL process using Apache Airflow for automation and reli
               isBlog={false}
               title="AI Chatbot for Civil Engineering Data Retrieval"
               description="an intelligent chatbot capable of automatically answering questions related to data specific to the field of civil engineering. The system is connected to a database or a set of technical documents (plans, reports, standards, etc.) and allows users (engineers, technicians, students, etc.) to quickly access relevant information via an intuitive conversational interface"
-              ghLink="https://github.com/IzeriaAbdellatif/Telecom-Churn-prediction-using-machine-Learning"
+              demoLink="https://drive.google.com/file/d/1-PV4zDaxNQK4ieXdgvrpIZ3eh1ks3y8X/view?usp=sharing"
               />
           </Col>
           
