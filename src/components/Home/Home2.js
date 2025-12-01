@@ -17,15 +17,15 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
-            <p className="home-about-body">
-              <span style={{ fontWeight: "bold", color: "#523714ff" }}>Genior IT man</span>, who found himself inside the world of <span className="purple" style={{ fontWeight: "bold" }}>IT</span> after studying for two years in preparatory classes and chose the <span className="purple" style={{ fontWeight: "bold" }}>data science</span> sector to follow the trend of <span className="purple" style={{ fontWeight: "bold" }}>AI</span>.
-              <br />
-              <br />
-              Actually, I am a <span style={{ fontWeight: "bold" }}>motivated man</span> that doesn't know what to do exactly.
-              <br />
-              <br />
-              I'm currently trying different things, and I hope to find what I want and where I belong.
-            </p>
+              <p className="home-about-body">
+                <span style={{ fontWeight: "bold", color: "#523714ff" }}>Last-year engineering student</span> at INSEA, specialized in <span className="purple" style={{ fontWeight: "bold" }}>Data Science</span>. I graduated from preparatory classes with a solid foundation in <span className="purple" style={{ fontWeight: "bold" }}>mathematics and physics</span>.
+                <br />
+                <br />
+                Inspired by the <span className="purple" style={{ fontWeight: "bold" }}>ChatGPT revolution</span>, I decided to join INSEA to contribute to the data science field. While INSEA provided me with strong mathematical foundations, I complemented my education through <span style={{ fontWeight: "bold" }}>self-directed learning</span> and hands-on projects.
+                <br />
+                <br />
+                Today, I have a comprehensive understanding of <span className="purple" style={{ fontWeight: "bold" }}>computer science</span> with specialized expertise in <span className="purple" style={{ fontWeight: "bold" }}>data science, machine learning, and AI systems</span>—an optimized profile for the <span style={{ fontWeight: "bold" }}>Moroccan tech market</span>.
+              </p>
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
